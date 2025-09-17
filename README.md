@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá, sou o João Guilherme! 👋
 
-<!--
-**GuiBriito/GuiBriito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📚Estudo **Análise e Desenvolvimento de Sistemas** na UNICID de SP - Capital, <br>
+🎯Estou em busca da minha primeira oportunidade como desenvolvedor, <br>
+🤓Focado em aprimorar minhas habilidades e contribuir para projetos inovadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🚀 **O que estou aprendendo:**
+
+- **Linguagens de Programação:** C, CSS e HTML
+- **Áreas de Foco:** Segurança de Sistemas, Redes e Criptografia
+- **Ferramentas:** GitHub
+
+---
+
+#### 📫 **Entre em contato comigo!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9195762)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jgui235689@gmail.com)
