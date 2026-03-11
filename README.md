@@ -17,4 +17,4 @@
 
 #### 📫 **Get in touch with me!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-guilherme-da-silva-b5433a385/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-guilherme-da-silva-brito-b5433a385)
