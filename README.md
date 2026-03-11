@@ -1,20 +1,20 @@
-### Olá, sou o João Guilherme! 👋
+## Hi, I'm João Guilherme! 👋
 
 
-📚Estudo **Análise e Desenvolvimento de Sistemas** na UNICID de SP - Capital, <br>
-🎯Estou em busca da minha primeira oportunidade como desenvolvedor, <br>
-🤓Focado em aprimorar minhas habilidades e contribuir para projetos inovadores.
-
----
-
-#### 🚀 **O que estou aprendendo:**
-
-- **Linguagens de Programação:** C, CSS e HTML
-- **Áreas de Foco:** Segurança de Sistemas, Redes e Criptografia
-- **Ferramentas:** GitHub
+📚Studying **Systems Analysis and Development** at UNICID in SP - Capital, <br>
+🎯Looking for my first opportunity as a Data Analyst, <br>
+🤓Focused on improving my skills and contributing to innovative projects.
 
 ---
 
-#### 📫 **Entre em contato comigo!**
+#### 🚀 **What I'm learning:**
+
+- **Programming Languages:** C, PYTHON CSS and HTML.
+- **Focus Areas:** Data Analysis, A.I and BI.
+- **Tools:** GitHub, Git.
+
+---
+
+#### 📫 **Get in touch with me!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-guilherme-da-silva-b5433a385/)
