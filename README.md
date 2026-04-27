@@ -9,9 +9,9 @@
 
 #### 🚀 **What I'm learning:**
 
-- **Programming Languages:** C, PYTHON CSS and HTML.
+- **Programming Languages:** C, PYTHON, CSS and HTML.
 - **Focus Areas:** Data Analysis, A.I and BI.
-- **Tools:** GitHub, Git.
+- **Tools:** GitHub, Git and IA STUDIO.
 
 ---
 
